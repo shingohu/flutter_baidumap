@@ -1,0 +1,45 @@
+PODS:
+  - BaiduMapKit (5.1.0)
+  - BMKLocationKit (1.8.0)
+  - Flutter (1.0.0)
+  - flutter_bdmap (0.0.1):
+    - BaiduMapKit
+    - BMKLocationKit
+    - Flutter
+    - Kingfisher (~> 5.0)
+  - fluwx (0.0.1):
+    - Flutter
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_bdmap (from `.symlinks/plugins/flutter_bdmap/ios`)
+  - fluwx (from `.symlinks/plugins/fluwx/ios`)
+
+SPEC REPOS:
+  trunk:
+    - BaiduMapKit
+    - BMKLocationKit
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_bdmap:
+    :path: ".symlinks/plugins/flutter_bdmap/ios"
+  fluwx:
+    :path: ".symlinks/plugins/fluwx/ios"
+
+SPEC CHECKSUMS:
+  BaiduMapKit: be03d7c0d625e2106ba04691e4be45f71f8dee7f
+  BMKLocationKit: 29f9f04827bfe2f2ca2c1c87b11161f05d4189a5
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_bdmap: f8747b4f39e4ff8833377e39426a4643f6501054
+  fluwx: e46c9ea0278bc6b4a2686dd29ec4ff4eb509e626
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+
+PODFILE CHECKSUM: 9623e5671bf4c1a62d7d0cbca971858420fabdd4
+
+COCOAPODS: 1.8.4
