@@ -1,4 +1,4 @@
-# shangxin
+# BaiduMap demo
 
 A new Flutter application.
 
